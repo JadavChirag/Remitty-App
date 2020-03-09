@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "747361418762",
+    "firebase_url": "https://remittyapp.firebaseio.com",
+    "project_id": "remittyapp",
+    "storage_bucket": "remittyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747361418762:android:dc6d5f77e95691d36c69f3",
+        "android_client_info": {
+          "package_name": "com.remittyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747361418762-eogbjn10891ns0q0crmhr9mlvt5oqqq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.remittyapp",
+            "certificate_hash": "75d702403455d81a7e8b2faf62b6edda4b0182c4"
+          }
+        },
+        {
+          "client_id": "747361418762-6lbadjtmeise6guun0tt2e71auesgg3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.remittyapp",
+            "certificate_hash": "0c375a5c7a2022c93a437dec7954468bfec1b2b8"
+          }
+        },
+        {
+          "client_id": "747361418762-fppd07vnvn17a0t2o9m337eu2r62ej0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHFNdGEc_xnkmm67Wol5UY7Kv6svm0Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747361418762-fppd07vnvn17a0t2o9m337eu2r62ej0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
